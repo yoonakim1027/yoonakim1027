@@ -1,5 +1,6 @@
 # 김유나
 
+![https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/cute%20dog.jpg?raw=true]
 ## 열심히 익히는 중 
 
 + 파이썬
