@@ -2,8 +2,8 @@
 
 # 프로젝트 FAVICON LIST
 
-![](https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/bear_black_yoona.png?raw=true)
-![](https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/favicondog.png?raw=true)
+![](https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/main09(1).png ?raw=true)
+
 
 # + Python
 # + Django
