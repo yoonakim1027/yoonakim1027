@@ -5,10 +5,10 @@
 ![](https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/bear_black_yoona.png?raw=true)
 ![](https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/favicondog.png?raw=true)
 
-# + 파이썬
-# + 장고
-# + 리액트
-# + 클라우드
+# + Python
+# + Django
+# + React
+# + Cloud (MariaDB, MySQL)
 
 ## 이메일
 
