@@ -4,7 +4,7 @@
 ![](https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/bear_black_yoona.png?raw=true)
 ![](https://github.com/yoonakim1027/yoonakim1027/blob/main/metabusA.png?raw=true)
 ![](https://github.com/yoonakim1027/yoonakim1027/blob/main/metabusB.png?raw=true)
-![](https://github.com/yoonakim1027/yoonakim1027/blob/main/버추얼리로고(라운딩) 1.png?raw=true)
+![](https://github.com/yoonakim1027/yoonakim1027/blob/main/virtually_logo1.png?raw=true)
 
 
 # + Python
