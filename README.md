@@ -7,9 +7,9 @@
 ![](https://github.com/yoonakim1027/yoonakim1027/blob/main/virtually_logo1.png?raw=true)
 
 
-# + Python
-# + Django
+# + React Native 
 # + React
+# + Django
 # + Cloud (MariaDB, MySQL)
 
 ## 이메일
