@@ -36,16 +36,27 @@
 
 # 백엔드 개발
 <div>
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <div>
+    
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    </div>
+    <div>
+    
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>  
+  </div>
 </div>
 
 # 웹 개발 프레임워크 및 도구
 <div>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  
+  <div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>  
+  </div>
+<div>
+    <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>  
+
+</div>
 
 </div>
 
@@ -57,9 +68,13 @@
 
 # 모바일 앱 개발
 <div>
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>  
+  <div>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>  
   <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>  
+  </div>
+<div>
   <img src="https://img.shields.io/badge/google admob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white"/>  
+  </div>
 </div>
 
 # API 및 테스트 도구 
@@ -80,11 +95,19 @@
 # 협업 툴 및 형상관리 도구
 
 <div>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>  
+  <div>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>  
+  </div>
+  <div>
+    
   <img src="https://img.shields.io/badge/GitLab-F05032?style=for-the-badge&logo=gitlab&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+  </div>
+  <div>
+    
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
+</div>
 </div>
 
 # 데이터 분석 
