@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>  
   <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>  
   <img src="https://img.shields.io/badge/google admob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>  
 
 
 </div>
