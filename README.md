@@ -1,4 +1,4 @@
-# 김유나 Yoona Kim
+# 김하루 Haru Kim
 
 # 프로젝트 LIST
 ![](https://github.com/yoonakim1027/yoonakim1027/blob/main/assets/bear_black_yoona.png?raw=true)
